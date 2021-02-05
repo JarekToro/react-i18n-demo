@@ -1,0 +1,6 @@
+{
+  "title": "Welcome tuh react usin' react-i18next",
+  "userMessagesUnread": "Howdy <1>{{name}}</1>, looks lahk yawl hav {{count}} unread message. <5>Go tuh chur message</5>.",
+  "userMessagesUnread_plural": "Howdy <1>{{name}}</1>, looks lahk yawl hav {{count}} unread messages. <5>Go tuh chur message</5>."
+}
+
